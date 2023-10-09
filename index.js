@@ -1,7 +1,7 @@
 const config = require("./Config");
 console.clear()
 async function bot(Token) {
-    console.log("By 6x.g");
+    console.log("By  6x.g ");
     const Discord = require("discord.js-selfbot-v13");
     const client = new Discord.Client({
         intents: [Discord.Intents.FLAGS.GUILDS],
@@ -19,7 +19,7 @@ async function bot(Token) {
         type: config.Type
     });
     client.login(config.Token); 
-    console.log("By 6x.g");
+    console.log("By  6x.g ");
 }
 
 bot(config.Token)
