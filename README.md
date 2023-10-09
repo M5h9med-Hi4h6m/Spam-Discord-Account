@@ -9,6 +9,10 @@
 
 <img src="https://media.discordapp.net/attachments/1160825619156828180/1161000716354207904/image.png?ex=6536b52d&is=6524402d&hm=ebee75b4b937788520100f915e1d5b86a859a2c4a428d7b09973e56f4984b2c6&=&width=874&height=611" alt="Spam Channel !">
 
+## **Can You Press The Star ⭐ Button Please 😁**
+
+<img src="https://pbs.twimg.com/media/DwFFxpfX4AUGmum.jpg" alt="Spam Channel !">
+
 # **Support**
 
 - **Discord : 6x.g**
