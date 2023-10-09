@@ -1,0 +1,18 @@
+{
+  "name": "user-account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.2.5",
+    "discord.js-selfbot-v13": "^2.14.3",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "sphinx-run": "^2.0.21"
+  }
+}
